@@ -3,7 +3,7 @@ entries:
   core-dashboard:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-09-03T12:30:35.175957+02:00
+    created: 2020-09-04T18:11:40.58224+02:00
     description: A Helm chart for Kubernetes
     digest: 34b4256346b34990723f41059239222f1aa59725527804af083391c6e7b37e7d
     name: core-dashboard
@@ -13,7 +13,7 @@ entries:
   edgevideo-analysis:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-09-03T12:30:35.176526+02:00
+    created: 2020-09-04T18:11:40.58282+02:00
     description: A Helm chart for Kubernetes
     digest: 5762504cdeaff9b9d80cf5a064e19a6e17dfa92873079b30d29a44a0c4c9b3d6
     name: edgevideo-analysis
@@ -23,21 +23,21 @@ entries:
   firemodel:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-09-03T12:30:35.176846+02:00
+    created: 2020-09-04T18:11:40.583718+02:00
     description: A Helm chart for Kubernetes
-    digest: ee21e12f4753a36648ed4ddd70afa8d671511c2eb3f75b80a82805b56536509d
+    digest: c98ffc4ca7aa1625dd500c539ca306046fcbc534d3b961dbbdac4c490e85dc23
     name: firemodel
     urls:
-    - https://sophie-martin.github.io/tnc-helm-charts/firemodel-0.1.2.tgz
-    version: 0.1.2
+    - https://sophie-martin.github.io/tnc-helm-charts/firemodel-0.1.3.tgz
+    version: 0.1.3
   videostream:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-09-03T12:30:35.177399+02:00
+    created: 2020-09-04T18:11:40.584315+02:00
     description: A Helm chart for Kubernetes
     digest: e401cad190181f07bd2e375f3570d2819f73a59f33dba41f000a4412695e3e02
     name: videostream
     urls:
     - https://sophie-martin.github.io/tnc-helm-charts/videostream-0.1.1.tgz
     version: 0.1.1
-generated: 2020-09-03T12:30:35.174483+02:00
+generated: 2020-09-04T18:11:40.579411+02:00
