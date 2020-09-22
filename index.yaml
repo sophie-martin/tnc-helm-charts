@@ -3,24 +3,33 @@ entries:
   core-dashboard:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-09-04T18:11:40.58224+02:00
+    created: 2020-09-22T11:51:06.773584+02:00
     description: A Helm chart for Kubernetes
     digest: 34b4256346b34990723f41059239222f1aa59725527804af083391c6e7b37e7d
     name: core-dashboard
     urls:
-    - https://sophie-martin.github.io/tnc-helm-charts/core-dashboard-0.1.2.tgz
+    - https://sophie-martin.github.io/helm-charts/core-dashboard-0.1.2.tgz
     version: 0.1.2
   edgevideo-analysis:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-09-04T18:11:40.58282+02:00
+    created: 2020-09-22T11:51:06.774197+02:00
     description: A Helm chart for Kubernetes
     digest: 5762504cdeaff9b9d80cf5a064e19a6e17dfa92873079b30d29a44a0c4c9b3d6
     name: edgevideo-analysis
     urls:
-    - https://sophie-martin.github.io/tnc-helm-charts/edgevideo-analysis-0.1.2.tgz
+    - https://sophie-martin.github.io/helm-charts/edgevideo-analysis-0.1.2.tgz
     version: 0.1.2
   firemodel:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2020-09-22T11:51:06.774496+02:00
+    description: A Helm chart for Kubernetes
+    digest: fcb73c778717f4ef805d5af39514c5eaacf5ce45767119f0f047516233c1b870
+    name: firemodel
+    urls:
+    - https://sophie-martin.github.io/helm-charts/firemodel-0.1.4.tgz
+    version: 0.1.4
   - apiVersion: v1
     appVersion: "1.0"
     created: 2020-09-04T18:11:40.583718+02:00
@@ -33,11 +42,11 @@ entries:
   videostream:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-09-04T18:11:40.584315+02:00
+    created: 2020-09-22T11:51:06.774976+02:00
     description: A Helm chart for Kubernetes
     digest: e401cad190181f07bd2e375f3570d2819f73a59f33dba41f000a4412695e3e02
     name: videostream
     urls:
-    - https://sophie-martin.github.io/tnc-helm-charts/videostream-0.1.1.tgz
+    - https://sophie-martin.github.io/helm-charts/videostream-0.1.1.tgz
     version: 0.1.1
-generated: 2020-09-04T18:11:40.579411+02:00
+generated: 2020-09-22T11:51:06.772709+02:00
