@@ -3,7 +3,7 @@ entries:
   core-dashboard:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-09-22T11:51:06.773584+02:00
+    created: 2020-09-22T12:02:38.29684+02:00
     description: A Helm chart for Kubernetes
     digest: 34b4256346b34990723f41059239222f1aa59725527804af083391c6e7b37e7d
     name: core-dashboard
@@ -13,7 +13,7 @@ entries:
   edgevideo-analysis:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-09-22T11:51:06.774197+02:00
+    created: 2020-09-22T12:02:38.297763+02:00
     description: A Helm chart for Kubernetes
     digest: 5762504cdeaff9b9d80cf5a064e19a6e17dfa92873079b30d29a44a0c4c9b3d6
     name: edgevideo-analysis
@@ -23,30 +23,31 @@ entries:
   firemodel:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-09-22T11:51:06.774496+02:00
+    created: 2020-09-22T12:02:38.298654+02:00
     description: A Helm chart for Kubernetes
     digest: fcb73c778717f4ef805d5af39514c5eaacf5ce45767119f0f047516233c1b870
     name: firemodel
     urls:
     - https://sophie-martin.github.io/helm-charts/firemodel-0.1.4.tgz
     version: 0.1.4
+  firetruckmodel:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-09-04T18:11:40.583718+02:00
+    created: 2020-09-22T12:02:38.299534+02:00
     description: A Helm chart for Kubernetes
-    digest: c98ffc4ca7aa1625dd500c539ca306046fcbc534d3b961dbbdac4c490e85dc23
-    name: firemodel
+    digest: f15955a60d735bf4baf65415f251e0bfcc221415d1a9428ef46de5fdb870ac05
+    name: firetruckmodel
     urls:
-    - https://sophie-martin.github.io/tnc-helm-charts/firemodel-0.1.3.tgz
-    version: 0.1.3
+    - https://sophie-martin.github.io/helm-charts/firetruckmodel-0.1.0.tgz
+    version: 0.1.0
   videostream:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-09-22T11:51:06.774976+02:00
+    created: 2020-09-22T12:02:38.299912+02:00
     description: A Helm chart for Kubernetes
     digest: e401cad190181f07bd2e375f3570d2819f73a59f33dba41f000a4412695e3e02
     name: videostream
     urls:
     - https://sophie-martin.github.io/helm-charts/videostream-0.1.1.tgz
     version: 0.1.1
-generated: 2020-09-22T11:51:06.772709+02:00
+generated: 2020-09-22T12:02:38.294639+02:00
